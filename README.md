@@ -9,11 +9,9 @@ Frontend developer
 
 - 📫 Как со мной связаться 
 [![Telegram Badge](https://img.shields.io/badge/-koshinva-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/imp_0593)
-[![Yandex Badge](https://img.shields.io/badge/-Yandex-red?style=flat&logo=Mail&logoColor=white)](mailto:koshinva@yandex.ru)
-
+- <p> 📧 По всем вопросам и предложениям <a href="mailto:koshinva@yandex.ru">пишите письма</a></p>
 - 🌱 В данный момент я прохожу интенсив на 
 [![Htmllessons](https://img.shields.io/badge/-Htmllessons-green?style=flat&logo=Htmllessons&logoColor=white)](https://htmllessons.ru/)
-
 - 💻 Выполняю pet - проекты и прохожу тестовые задания по вакансиям
 
 ---
