@@ -2,9 +2,9 @@
 <h2>I'm a frontend developer</h2>
 ---
 
- <p>How to contact me<p>
-[![Telegram Badge](https://img.shields.io/badge/-koshinva-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/imp_0593)
-- <p> If you have any questions or suggestions, <a href="mailto:koshinva@yandex.ru">please write to</a></p>
+<p>How to contact me<p>
+ 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/imp_0593)
 
 ---
 
