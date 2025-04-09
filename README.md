@@ -1,16 +1,14 @@
-Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) меня зовут Валерий
-===============================================================================================================================
-
-Frontend developer
+<h1>Hi, my name is Valery!</h1>
+<h2>I'm a frontend developer</h2>
 ---
 
-- 📫 Как со мной связаться 
+ <p>How to contact me<p>
 [![Telegram Badge](https://img.shields.io/badge/-koshinva-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/imp_0593)
-- <p> 📧 По всем вопросам и предложениям <a href="mailto:koshinva@yandex.ru">пишите письма</a></p>
+- <p> If you have any questions or suggestions, <a href="mailto:koshinva@yandex.ru">please write to</a></p>
 
 ---
 
-<h3 align="left">👨‍💻 Технологии:</h3>
+<h3 align="left">👨‍💻 Technologies</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -19,7 +17,7 @@ Frontend developer
 </p>
 
 ---
-<h3 align="left">🛠 Инструменты:</h3>
+<h3 align="left">🛠 Tools</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
