@@ -27,8 +27,7 @@
 
 ---
 <h3 align="left">Codewars profile</h3>
-<a href="https://www.codewars.com/users/%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D0%B9%20%D0%9A%D0%BE%D1%88%D0%B8%D0%BD" target="blank"><img src="https://www.codewars.com/users/%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D0%B9%20%D0%9A%D0%BE%D1%88%D0%B8%D0%BD/badges/large" alt="codewars-bagge" /></a>
-
+<a href="https://www.codewars.com/users/koshin_valery" target="blank"><img src="https://www.codewars.com/users/koshin_valery/badges/small" alt="codewars-bagge" /></a>
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koshinva&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
